@@ -9,7 +9,7 @@ BybitOrder.exe는 주문을 더 쉽게하는 소프트웨어입니다.
   
 **<a href="https://github.com/GitHubCoinSap/BybitOrder.exe/releases/latest" target="_blank">ダウンロードはここから</a>**  
   
-[![Bybit自動追従](http://img.youtube.com/vi/EHruFNfvnxo/0.jpg)](http://www.youtube.com/watch?v=EHruFNfvnxo "Bybit自動追従")
+[![Bybit自動追従](http://img.youtube.com/vi/EHruFNfvnxo/0.jpg)](http://www.youtube.com/watch?v=EHruFNfvnxo "Bybit自動追従")  
 **<a href="https://www.youtube.com/watch?v=EHruFNfvnxo" target="_blank">自動追従動画はここから</a>**  
 **<a href="https://youtu.be/WRyNIqTpxgY" target="_blank">English movie.</a>**  
 **<a href="https://youtu.be/WRyNIqTpxgY" target="_blank">简体中文 视频</a>**  
