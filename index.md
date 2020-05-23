@@ -1,5 +1,4 @@
 # BybitOrder.exe
-<meta name="google-site-verification" content="4cTZnRTprGPxJQnGDIdwvc1Pd_IO_KD6GTeiPfs7ozY" />
 Bybit注文ツール　BybitOrder.exeは、注文をより簡単に行うツールです。  
 BybitOrder.exe is a tool that makes ordering easier.  
 BybitOrder.exe是使订购更加容易的软件  
