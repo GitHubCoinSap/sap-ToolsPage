@@ -46,15 +46,16 @@
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+	<p class="header">Twitter:<a href="https://twitter.com/coin_sap" target="_blank">@coin_sap</a></p>
       </header>
       
       <!-- サブ・ディレクトリへのリンク -->
       <sidemenu>
 	<ul>
 	  <li class="sidemenu"><a href="{{ '/' | relative_url }}">トップページ</a></li>
-      <li><a href="{{ '/BybitOrder' | relative_url }}">Bybit注文ツール</a></li>
-      <li><a href="{{ '/execution' | relative_url }}">Bybit約定通知</a></li>
-      <li><a href="{{ '/BitMEXOrder' | relative_url }}">BitMex注文ツール</a></li>
+          <li><a href="{{ '/BybitOrder' | relative_url }}">Bybit注文ツール</a></li>
+          <li><a href="{{ '/execution' | relative_url }}">Bybit約定通知</a></li>
+          <li><a href="{{ '/BitMEXOrder' | relative_url }}">BitMex注文ツール</a></li>
 	</ul>
       </sidemenu>
 
